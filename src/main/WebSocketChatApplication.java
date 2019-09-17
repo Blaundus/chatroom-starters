@@ -1,4 +1,4 @@
-package edu.udacity.java.nano;
+package lab.io.java.nano;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

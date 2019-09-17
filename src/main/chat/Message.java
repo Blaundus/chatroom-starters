@@ -1,4 +1,4 @@
-package edu.udacity.java.nano.chat;
+package lab.io.java.nano.chat;
 
 import com.google.gson.Gson;
 

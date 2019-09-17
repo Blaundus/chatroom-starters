@@ -1,6 +1,5 @@
-package edu.udacity.java.nano.chat;
+package lab.io.java.nano.chat;
 
-import edu.udacity.java.nano.chat.Message;
 import org.springframework.stereotype.Component;
 
 import javax.websocket.*;

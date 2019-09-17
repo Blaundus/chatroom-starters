@@ -1,4 +1,4 @@
-package edu.udacity.java.nano.chat;
+package lab.io.java.nano.chat;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
